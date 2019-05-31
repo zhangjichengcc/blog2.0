@@ -177,6 +177,7 @@ code {
 }
 #container {
   position: relative;
+  padding-top: 64px;
 }
 #container > .outer {
   margin-bottom: 30px;
@@ -345,7 +346,10 @@ code {
 }
 #header {
   background: #222;
-  position: relative;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
 }
 #header a,
 #header a:visited {

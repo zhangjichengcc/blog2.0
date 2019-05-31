@@ -3,7 +3,7 @@ title: GIT配置多账户
 date: 2019-01-02 09:41:00
 comments: true
 toc: true
-banner: /blog/2019/01/02/GIT多账户/banner.jpg
+banner: /2019/01/02/GIT多账户/banner.jpg
 categories: '随笔'
 tags:
 	- git

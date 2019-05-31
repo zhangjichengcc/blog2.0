@@ -17,8 +17,8 @@ date: 2019-01-08 14:24:00
 
 <!-- more -->
 
-hexo 的安装使用本文就不做介绍了，可以参考之前的文章[hexo常用命令](https://zhangjichengcc.github.io/blog/2018/02/05/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/),[hexo 创建文章 & 文章缩略图及banner & MarkDown
-](https://zhangjichengcc.github.io/blog/2018/02/27/hexo-%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/)
+hexo 的安装使用本文就不做介绍了，可以参考之前的文章[hexo常用命令](https://blog.veigar.xyz/2018/02/05/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/),[hexo 创建文章 & 文章缩略图及banner & MarkDown
+](https://blog.veigar.xyz/2018/02/27/hexo-%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/)
 
 ## 注册配置 Travis
 1. 打开[Travis CI](https://travis-ci.org/)官网，进行注册，这里就不做太多赘述，推荐用github账户注册；
